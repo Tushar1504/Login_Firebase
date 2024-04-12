@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "609809404513",
+    "project_id": "login-fir",
+    "storage_bucket": "login-fir.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609809404513:android:e9d0006cc3fe9d20419020",
+        "android_client_info": {
+          "package_name": "com.example.login_example"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWKhpcsFVE63bCCG-d2ZQM1YGVt6qzCVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
